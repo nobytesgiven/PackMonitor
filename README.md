@@ -1,8 +1,7 @@
-# PackMonitor
 PackMonitor is a modular 3S–6S battery analog front end that provides isolated voltage and temperature monitoring with passive cell balancing. Multiple boards can be combined to support larger battery packs.
 
 <p align="center">
-  <img width="60%" src="https://github.com/user-attachments/assets/1f166dfd-1d67-4912-bbb5-1d050e975961" />
+  <img width="60%" src="https://github.com/user-attachments/assets/70d1861b-aea4-4375-b9ba-37bb777aa559" />
 </p>
 
 ## Description
@@ -16,8 +15,8 @@ PackMonitor is built around the LTC6810-2 multicell battery monitor and Analog D
 - Support for up to 16 addressed monitoring boards
 
 <p  float="left">
-      <img width="49%" src="https://github.com/user-attachments/assets/18f93e9a-bf36-4a9c-a885-f61750287876" width="100%" />
-      <img width="49%" src="https://github.com/user-attachments/assets/009b7fa2-d0c4-49a9-aab1-0223dcf57788" width="100%" />
+  <img width="49%" src="https://github.com/user-attachments/assets/fe628f8b-791b-40f3-88d3-ec298b7f4e93" />
+<img width="49%" src="https://github.com/user-attachments/assets/4f9b7a7e-a557-4fd6-8cd5-e2e6a56416d7" />
  </p>
 
 
